@@ -172,6 +172,6 @@ This MLOps project streamlines the entire ML lifecycle, integrating **data engin
 
 **🚀 Let’s innovate and scale AI solutions with MLOps!** 🔥
 
-📩 Feel free to connect with me on [LinkedIn](hwww.linkedin.com/in/govinda-sah) or explore my other projects! 😃
+📩 Feel free to connect with me on www.linkedin.com/in/govinda-sah or explore my other projects! 😃
 
 
